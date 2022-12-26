@@ -5,10 +5,7 @@
 ### Language used: Python
 ### Tools used : pandas, numpy, seaborn, matplotlib
 
-
-
-
-
+&emsp;
 ### Some snapshots 
 
 ![image](https://user-images.githubusercontent.com/67466471/192094078-25a31fa9-a3bb-47e0-98dd-5600c04eb93e.png)
