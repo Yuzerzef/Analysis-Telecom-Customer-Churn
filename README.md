@@ -1,7 +1,15 @@
 # Analysis: Telecom Customer Churn
 
-![image](https://user-images.githubusercontent.com/67466471/192094060-5bff46b0-5bb2-483e-b0ca-cffff34daa43.png)
+* In this project, an in-depth analysis and investigation of the Telecom customer churn dataset is performed in order to gain meaningful insight that can assist organizations in making more informed decisions. 
 
+### Language used: Python
+### Tools used : pandas, numpy, seaborn, matplotlib
+
+
+
+
+
+### Some snapshots 
 
 ![image](https://user-images.githubusercontent.com/67466471/192094078-25a31fa9-a3bb-47e0-98dd-5600c04eb93e.png)
 
